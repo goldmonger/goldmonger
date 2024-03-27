@@ -4,7 +4,7 @@
 <!-- Colors: https://simpleicons.org/ -->
 
 - 👨🏻‍💻 Expertise in building websites and mobile apps
-- 🎓 B. Tech 
+- 🎓 B. Tech (final year)
 
 ## My Tech Stack
 
