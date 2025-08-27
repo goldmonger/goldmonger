@@ -3,7 +3,7 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Colors: https://simpleicons.org/ -->
 
-- 👨🏻‍💻 Expertise in building websites and mobile apps
+- 👨🏻‍💻 Expertise in building websites
 - 🎓 B. Tech
 
 ## My Tech Stack
